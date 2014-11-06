@@ -1,0 +1,10 @@
+clr
+cd ..
+cd /xxxxx
+dir /
+echo Welcome to myshell!
+pause
+environ
+help
+exPro
+quit
